@@ -40,11 +40,3 @@
         </div>
     </body>
 </html>
-<?php 
-
-$con = mysqli_connect("localhost", "root", "adminohmza1");
-
-
-
-
-?> 
